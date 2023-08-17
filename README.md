@@ -1,2 +1,3 @@
 # GAN-in-Fashion
-Generative adversarial network (GAN) in Fashion Industry. Its applications and complete guide
+Generative adversarial network (GAN) are type of AI model used for unsupervised learning. It consist of two parts enerator and discriminator that are  trained simultaneously.
+# I will be making regular updates to this repo as i continue to learn more about GAN and its related applications.
