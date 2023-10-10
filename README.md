@@ -1,5 +1,10 @@
 # GAN-in-Fashion
-Generative adversarial network (GAN) are type of AI model used for unsupervised learning. It consist of two parts generator and discriminator that are  trained simultaneously.
-Using DCGAN to classify and genreate new fashion designs.
-
-# I will be making regular updates to this repo as i continue to learn more about GAN and its related applications.
+FashGAN  is a cutting-edge project that utilizes Generative Adversarial Networks (GANs) to revolutionize the fashion industry. With FashGAN, you can generate high-quality and photorealistic fashion images, designs, and styles, helping designers, retailers, and fashion enthusiasts explore new creative possibilities.
+# Table of Contents
+* Introduction
+* Features
+* Installation
+* Usage
+* Training Your Own Model
+* Contributing
+* License
