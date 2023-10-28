@@ -6,6 +6,6 @@ FashGAN  is a cutting-edge project that utilizes Generative Adversarial Networks
 * Installation
 * Usage
 * Training Your Own Model
-* Contributing
+# Contributing
 We welcome contributions from the community to enhance FashionGAN further. Whether it's improving documentation, adding new features, or fixing bugs, your contributions are valuable. Please read our Contribution Guidelines for details on how to contribute.
 * License
