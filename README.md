@@ -3,7 +3,7 @@ FashGAN  is a cutting-edge project that utilizes Generative Adversarial Networks
 # Table of Contents
 * Introduction
 * Features
-* Installation
+# Installation
 # Usage
 To get started with FashionGAN, follow these steps:
 * Pre-trained Models: We provide pre-trained models for various fashion styles. You can use these models to generate fashion images immediately. Check out the Pre-trained Models documentation for more details.
