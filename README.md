@@ -4,7 +4,7 @@ FashGAN  is a cutting-edge project that utilizes Generative Adversarial Networks
 * Introduction
 * Features
 # Installation
-Clone the FashionGAN repository:
+Clone the FashionGAN repository: 
 ``` git clone https://github.com/abdullah5282/GAN-in-Fashion.git ```
 # Usage
 To get started with FashionGAN, follow these steps:
