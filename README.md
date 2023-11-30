@@ -2,8 +2,8 @@
 FashGAN  is a cutting-edge project that utilizes Generative Adversarial Networks (GANs) to revolutionize the fashion industry. With FashGAN, you can generate high-quality and photorealistic fashion designs and styles, helping designers and fashion enthusiasts explore new creative possibilities.
 # Table of Contents
 
-# Features
-<!---High-Quality Image Generation: FashionGAN generates high-resolution fashion images with incredible detail and realism.
+<!---# Features
+High-Quality Image Generation: FashionGAN generates high-resolution fashion images with incredible detail and realism.
 Style Transfer: Transform existing fashion images or designs into new and exciting styles.
 Customizable: Fine-tune the model for your specific fashion needs, whether it's haute couture, streetwear, or casual attire.
 User-Friendly Interface: Easy-to-use APIs and user interfaces make it accessible for designers, developers, and fashion aficionados.
